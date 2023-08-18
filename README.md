@@ -1,1 +1,1 @@
-Read me file for hello c
+read me file for alx-low_level_programming
